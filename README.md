@@ -46,5 +46,8 @@ retina_hr_ai/
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project documentation
 
+
+
+
 <img width="981" height="482" alt="Screenshot 2026-06-06 202456" src="https://github.com/user-attachments/assets/5886ba7e-f64a-4214-b6cb-d3dbaae2ccdb" />
 <img width="1037" height="507" alt="Screenshot 2026-06-06 202654" src="https://github.com/user-attachments/assets/c67c01ff-b4bd-42e4-9f17-efa19670759a" />
